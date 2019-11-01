@@ -1,3 +1,4 @@
 class Film
-    attr_accessor :name
+    attr_accessor :name, :genre
+    attr_reader :description
 end
