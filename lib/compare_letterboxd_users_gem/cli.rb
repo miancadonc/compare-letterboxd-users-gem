@@ -1,0 +1,3 @@
+class CompareUsers::CLI
+
+end

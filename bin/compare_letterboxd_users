@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative 'lib/compare_letterboxd_users_gem'
+
+CompareUsers::CLI.new.start
